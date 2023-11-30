@@ -1,5 +1,5 @@
-print("what's your name ?")
-input("what's your name ?")
+# print("what's your name ?")
+# input("what's your name ?")
 
 print("Hello" + input("what is your name?"))
 
